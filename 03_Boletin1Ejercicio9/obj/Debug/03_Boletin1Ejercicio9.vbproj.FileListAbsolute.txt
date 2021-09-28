@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\bin\Debug\03_Boletin1Ejercicio9.exe.config
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\bin\Debug\03_Boletin1Ejercicio9.exe
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\bin\Debug\03_Boletin1Ejercicio9.pdb
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\bin\Debug\03_Boletin1Ejercicio9.xml
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\03_Boletin1Ejercicio9.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\_03_Boletin1Ejercicio9.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\03_Boletin1Ejercicio9.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\03_Boletin1Ejercicio9.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\03_Boletin1Ejercicio9.exe
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\03_Boletin1Ejercicio9.xml
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\03_Boletin1Ejercicio9\obj\Debug\03_Boletin1Ejercicio9.pdb

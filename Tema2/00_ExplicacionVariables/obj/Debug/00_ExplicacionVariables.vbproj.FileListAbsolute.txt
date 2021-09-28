@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\bin\Debug\00_ExplicacionVariables.exe.config
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\bin\Debug\00_ExplicacionVariables.exe
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\bin\Debug\00_ExplicacionVariables.pdb
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\bin\Debug\00_ExplicacionVariables.xml
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\00_ExplicacionVariables.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\_00_ExplicacionVariables.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\00_ExplicacionVariables.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\00_ExplicacionVariables.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\00_ExplicacionVariables.exe
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\00_ExplicacionVariables.xml
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\Tema2\00_ExplicacionVariables\obj\Debug\00_ExplicacionVariables.pdb

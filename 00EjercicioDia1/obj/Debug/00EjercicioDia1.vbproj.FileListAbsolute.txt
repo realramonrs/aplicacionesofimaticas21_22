@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\bin\Debug\00EjercicioDia1.exe.config
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\bin\Debug\00EjercicioDia1.exe
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\bin\Debug\00EjercicioDia1.pdb
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\bin\Debug\00EjercicioDia1.xml
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\00EjercicioDia1.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\_00EjercicioDia1.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\00EjercicioDia1.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\00EjercicioDia1.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\00EjercicioDia1.exe
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\00EjercicioDia1.xml
+C:\Users\Ramon RS\Documents\GitHub\Curso21_22_AppsOfimaticas\00EjercicioDia1\obj\Debug\00EjercicioDia1.pdb
