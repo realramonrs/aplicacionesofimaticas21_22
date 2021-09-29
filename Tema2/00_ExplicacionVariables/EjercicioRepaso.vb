@@ -1,4 +1,5 @@
-﻿Module EjercicioRepaso
+﻿Option Strict On
+Module EjercicioRepaso
     Sub Main()
         'Programa que calcula el precio final de venta
         'de un inmueble a partir de los siguientes datos

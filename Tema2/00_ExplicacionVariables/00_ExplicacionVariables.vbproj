@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D4883B00-3592-4392-9A6E-734A11F51001}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_00_ExplicacionVariables.ConversionesTipos1</StartupObject>
+    <StartupObject>_00_ExplicacionVariables.ConversionesTipos2</StartupObject>
     <RootNamespace>_00_ExplicacionVariables</RootNamespace>
     <AssemblyName>00_ExplicacionVariables</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -23,7 +23,9 @@
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>00_ExplicacionVariables.xml</DocumentationFile>
-    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -33,7 +35,9 @@
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
     <DocumentationFile>00_ExplicacionVariables.xml</DocumentationFile>
-    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup>
     <OptionExplicit>On</OptionExplicit>
@@ -42,7 +46,7 @@
     <OptionCompare>Binary</OptionCompare>
   </PropertyGroup>
   <PropertyGroup>
-    <OptionStrict>Off</OptionStrict>
+    <OptionStrict>On</OptionStrict>
   </PropertyGroup>
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
@@ -72,6 +76,7 @@
     <Compile Include="Class1.vb" />
     <Compile Include="Constantes.vb" />
     <Compile Include="ConversionesTipos1.vb" />
+    <Compile Include="ConversionesTipos2.vb" />
     <Compile Include="EjercicioRepaso.vb" />
     <Compile Include="MostrarPorPantalla.vb" />
     <Compile Include="TiposVariables.vb" />
