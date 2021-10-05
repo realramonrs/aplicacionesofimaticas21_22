@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D4883B00-3592-4392-9A6E-734A11F51001}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_00_ExplicacionVariables.ConversionesTipos2</StartupObject>
+    <StartupObject>_00_ExplicacionVariables.EjercicioRepaso2</StartupObject>
     <RootNamespace>_00_ExplicacionVariables</RootNamespace>
     <AssemblyName>00_ExplicacionVariables</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -78,6 +78,8 @@
     <Compile Include="ConversionesTipos1.vb" />
     <Compile Include="ConversionesTipos2.vb" />
     <Compile Include="EjercicioRepaso.vb" />
+    <Compile Include="EjercicioRepaso2.vb" />
+    <Compile Include="LecturaTeclado.vb" />
     <Compile Include="MostrarPorPantalla.vb" />
     <Compile Include="TiposVariables.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
