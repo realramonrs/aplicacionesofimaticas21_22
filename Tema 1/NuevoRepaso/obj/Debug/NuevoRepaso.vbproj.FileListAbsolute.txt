@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\bin\Debug\NuevoRepaso.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\bin\Debug\NuevoRepaso.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\bin\Debug\NuevoRepaso.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\bin\Debug\NuevoRepaso.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema 1\NuevoRepaso\obj\Debug\NuevoRepaso.pdb
