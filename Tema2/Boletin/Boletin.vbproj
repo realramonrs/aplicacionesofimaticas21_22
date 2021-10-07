@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{94D21802-4E95-43C1-B60F-AD3C83A5211C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Boletin.Ejercicio4</StartupObject>
+    <StartupObject>Boletin.Ejercicio13</StartupObject>
     <RootNamespace>Boletin</RootNamespace>
     <AssemblyName>Boletin</AssemblyName>
     <FileAlignment>512</FileAlignment>
