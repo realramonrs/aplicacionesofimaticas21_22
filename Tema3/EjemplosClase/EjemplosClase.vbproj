@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{FC4FC350-CB06-48AF-83C5-957511F474F3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>EjemplosClase.IfElse3</StartupObject>
+    <StartupObject>EjemplosClase.IfElse4</StartupObject>
     <RootNamespace>EjemplosClase</RootNamespace>
     <AssemblyName>EjemplosClase</AssemblyName>
     <FileAlignment>512</FileAlignment>

@@ -3,14 +3,14 @@
         'Solicitar al usuario que introduzca una letra: 
         'Puede introducir una a, una b o una c, en cualquier otro caso se informará
         'de que ha cometido un error.
-        Dim letra As Char
+        Dim letra As Char = "w"c
         Dim continuidad As Boolean = False
 
         Do
             Console.WriteLine("Introduzca una letra a, b o c")
             letra = Convert.ToChar(Console.ReadLine())
 
-            If letra = "a"c Or letra = "b"c Or letra = "c"c Then
+            If letra = "a" Or letra = "b" Or letra = "c" Then
                 Console.WriteLine("Opción correcta.")
                 continuidad = False
             Else

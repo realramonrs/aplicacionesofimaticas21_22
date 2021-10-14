@@ -2,6 +2,7 @@
     Sub Main()
         Dim numero As Integer
         Dim continuidad As Boolean = False
+        Dim contador As Integer = 0
 
         Do
             Console.WriteLine("Introduzca un número impar , múltiplo de 5 y > 100.")
@@ -13,9 +14,14 @@
             Else
                 Console.WriteLine("No correcto.")
                 continuidad = True
+                contador += 1
             End If
 
-        Loop While continuidad = True
+        Loop While continuidad = True And contador < 3
+
+        If contador = 3 Then
+            Console.WriteLine("Has agotado el número de intentos. Chao")
+        End If
 
 
 
