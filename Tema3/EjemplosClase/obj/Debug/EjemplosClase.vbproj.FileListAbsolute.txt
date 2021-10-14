@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\bin\Debug\EjemplosClase.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\bin\Debug\EjemplosClase.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\bin\Debug\EjemplosClase.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\bin\Debug\EjemplosClase.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\EjemplosClase\obj\Debug\EjemplosClase.pdb
