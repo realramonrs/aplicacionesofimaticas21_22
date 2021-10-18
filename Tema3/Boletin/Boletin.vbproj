@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A822528B-0932-4DB5-88A9-72DE3EECFE5E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Boletin.Module1</StartupObject>
+    <StartupObject>Boletin.Ejercicio5</StartupObject>
     <RootNamespace>Boletin</RootNamespace>
     <AssemblyName>Boletin</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="Ejercicio5.vb" />
+    <Compile Include="Ejercicio6.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
