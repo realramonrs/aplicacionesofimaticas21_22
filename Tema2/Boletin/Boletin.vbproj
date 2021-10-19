@@ -73,9 +73,12 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio10.vb" />
+    <Compile Include="Ejercicio12.vb" />
     <Compile Include="Ejercicio13.vb" />
     <Compile Include="Ejercicio4.vb" />
     <Compile Include="Ejercicio7.vb" />
+    <Compile Include="Ejercicio8.vb" />
     <Compile Include="Ejercicio9.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
