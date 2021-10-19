@@ -14,11 +14,11 @@
 
         If suma >= 0 Then
             raiz = Math.Sqrt(suma)
-            Console.WriteLine("Raiz de " & suma & " = " & raiz)
+
+            Console.WriteLine("Raiz de " & suma & " = " & Math.Round(raiz, 2))
         Else
             Console.WriteLine("No se puede calcular la raiz")
         End If
-
         Console.ReadLine()
     End Sub
 End Module
