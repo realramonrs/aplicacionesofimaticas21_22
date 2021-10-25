@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D6C9CE48-4932-4CBC-A007-EA7852F5FBBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>IfElseIf_SelectCase._02Ejemplo2</StartupObject>
+    <StartupObject>IfElseIf_SelectCase._03Ejemplo3</StartupObject>
     <RootNamespace>IfElseIf_SelectCase</RootNamespace>
     <AssemblyName>IfElseIf_SelectCase</AssemblyName>
     <FileAlignment>512</FileAlignment>
