@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{D6C9CE48-4932-4CBC-A007-EA7852F5FBBB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>IfElseIf_SelectCase._03Ejemplo3</StartupObject>
+    <StartupObject>IfElseIf_SelectCase._05Ejemplo5SelectCase</StartupObject>
     <RootNamespace>IfElseIf_SelectCase</RootNamespace>
     <AssemblyName>IfElseIf_SelectCase</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -76,6 +76,8 @@
     <Compile Include="01Ejemplo1.vb" />
     <Compile Include="02Ejemplo2.vb" />
     <Compile Include="03Ejemplo3.vb" />
+    <Compile Include="04Ejemplo4SelectCase.vb" />
+    <Compile Include="05Ejemplo5SelectCase.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
