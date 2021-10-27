@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\bin\Debug\Boletin4Bien.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\bin\Debug\Boletin4Bien.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\bin\Debug\Boletin4Bien.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\bin\Debug\Boletin4Bien.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\Boletin4Bien\obj\Debug\Boletin4Bien.pdb
