@@ -59,6 +59,62 @@
 
                     Console.ReadLine()
 
+
+
+                Case 10
+                    Dim precio1, precio2, precio3, precioTotal As Double
+                    Dim descuento, precioFinal As Double
+
+                    Do
+                        Console.WriteLine("Intro precio primer producto: ")
+                        precio1 = Convert.ToDouble(Console.ReadLine())
+                    Loop While precio1 < 0
+
+
+
+                    Console.WriteLine("Intro precio segundo producto: ")
+                    precio2 = Convert.ToDouble(Console.ReadLine())
+
+                    Console.WriteLine("Intro precio tercer producto: ")
+                    precio3 = Convert.ToDouble(Console.ReadLine())
+
+                    precioTotal = precio1 + precio2 + precio3
+
+                    If precioTotal < 500 Then
+                        descuento = 0
+                    ElseIf precioTotal < 1000 Then
+                        'descuento del 3%
+                        descuento = precioTotal * 0.03
+                    ElseIf precioTotal < 2000 Then
+                        descuento = precioTotal * 0.05
+                    ElseIf precioTotal < 3000 Then
+                        descuento = precioTotal * 0.07
+                    Else
+                        descuento = precioTotal * 0.1
+                    End If
+
+                    precioFinal = precioTotal - descuento
+                    Console.WriteLine("Precio total: " & precioTotal)
+                    Console.WriteLine("Tiene un descuento de : " & descuento & " euros")
+                    Console.WriteLine("Precio final: " & precioFinal)
+
+                    Console.ReadLine()
+
+                Case 13
+                    Dim letra As Char = "r"c
+
+                    Select Case letra
+                        Case "r"c, "R"c
+
+                        Case "v"c, "V"c
+
+                        Case "a"c, "A"c
+
+                        Case Else
+
+
+                    End Select
+
                 Case 14
                     Console.WriteLine("Ejercicio 14: Indicar cifras de un número")
                     Dim numero As Integer = 0
@@ -81,9 +137,49 @@
                         Case Else
                             Console.WriteLine("Tiene 7 o más cifras.")
 
-
                     End Select
-                    Console.ReadLine()
+
+                Case 15
+                    'Ecuación de 2º Grado ax2 + bx + c = 0
+                    Dim a, b, c As Integer
+                    Dim sol1, sol2 As Double
+
+                    Console.WriteLine("Valor de a: ")
+                    a = Convert.ToInt32(Console.ReadLine())
+
+                    Console.WriteLine("Valor de b: ")
+                    b = Convert.ToInt32(Console.ReadLine())
+
+                    Console.WriteLine("Valor de c: ")
+                    c = Convert.ToInt32(Console.ReadLine())
+
+
+                    If a = 0 Then
+                        sol1 = -c / b
+                        sol2 = sol1
+
+                    ElseIf b = 0 Then
+                        If -c / a > 0 Then
+                            sol1 = Math.Sqrt(-c / a)
+                            sol2 = (-1) * Math.Sqrt(-c / a)
+                        Else
+                            Console.WriteLine("No se puede hallar la solución")
+                        End If
+                    ElseIf c = 0 Then
+                        sol1 = 0
+                        sol2 = -b / a
+
+                    Else
+
+                        Dim radicando As Double = b * b - 4 * a * c
+                        If radicando > 0 Then
+                            sol1 = (-b + Math.Sqrt(radicando)) / (2 * a)
+                            sol2 = (-b - Math.Sqrt(radicando)) / (2 * a)
+                        Else
+                            Console.WriteLine("No hay solución")
+                        End If
+                    End If
+
 
             End Select
             Console.Clear()
