@@ -179,6 +179,69 @@
                             Console.WriteLine("No hay solución")
                         End If
                     End If
+                Case 16
+                    Dim anho As Integer
+                    Dim bisiesto As Boolean = False
+                    Console.WriteLine("Introduzca el año: ")
+                    anho = Convert.ToInt32(Console.ReadLine())
+
+                    'If anho Mod 4 = 0 And anho Mod 100 <> 0 Then
+                    '    bisiesto = True
+                    'ElseIf anho Mod 4 = 0 And anho Mod 100 = 0 And anho Mod 400 = 0 Then
+                    '    bisiesto = True
+                    'Else
+                    '    bisiesto = False
+                    'End If
+
+                    'If anho Mod 4 = 0 Then
+                    '    If anho Mod 100 <> 0 Then
+                    '        bisiesto = True
+                    '    Else
+                    '        If anho Mod 400 = 0 Then
+                    '            bisiesto = True
+                    '        Else
+                    '            bisiesto = False
+                    '        End If
+                    '    End If
+                    'Else
+                    '    bisiesto = False
+                    'End If
+
+                    'If bisiesto Then
+                    '    Console.WriteLine("Anho bisiesto.")
+                    'Else
+                    '    Console.WriteLine("No bisiesto.")
+                    'End If
+
+                    'Notación errónea descubierta por Juan Miguel
+                    'Posible Bug en la interpretación del Select Case
+                    'Select Case anho Mod 4 = 0
+                    '    Case anho Mod 100 = 0 And anho Mod 400 = 0
+                    '        Console.WriteLine("Bisiesto")
+                    '    Case Else
+                    '        Console.WriteLine("No Bisiesto")
+                    'End Select
+
+                Case 17
+                    Dim n1, n2, n3 As Integer
+
+                    n1 = 3
+                    n2 = 9
+                    n3 = 5
+
+                    If n1 < n2 And n1 < n3 Then
+                        If n2 < n3 Then
+                            Console.WriteLine(n1 & " " & n2 & " " & n3)
+                        Else
+                            Console.WriteLine(n1 & " " & n3 & " " & n2)
+                        End If
+
+
+
+                    End If
+
+                    Console.ReadLine()
+
 
 
             End Select

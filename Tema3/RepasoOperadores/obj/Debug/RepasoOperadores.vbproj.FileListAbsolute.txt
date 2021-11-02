@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\bin\Debug\RepasoOperadores.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\bin\Debug\RepasoOperadores.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\bin\Debug\RepasoOperadores.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\bin\Debug\RepasoOperadores.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoOperadores\obj\Debug\RepasoOperadores.pdb
