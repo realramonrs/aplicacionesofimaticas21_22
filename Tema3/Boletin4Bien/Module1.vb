@@ -225,9 +225,9 @@
                 Case 17
                     Dim n1, n2, n3 As Integer
 
-                    n1 = 3
-                    n2 = 9
-                    n3 = 5
+                    n1 = 505
+                    n2 = 50
+                    n3 = 50
 
                     If n1 < n2 And n1 < n3 Then
                         If n2 < n3 Then
@@ -235,8 +235,19 @@
                         Else
                             Console.WriteLine(n1 & " " & n3 & " " & n2)
                         End If
+                    ElseIf n2 < n1 And n2 < n3 Then
+                        If n1 < n3 Then
+                            Console.WriteLine(n2 & " " & n1 & " " & n3)
+                        Else
+                            Console.WriteLine(n2 & " " & n3 & " " & n1)
+                        End If
 
-
+                    Else
+                        If n1 < n2 Then
+                            Console.WriteLine(n3 & " " & n1 & " " & n2)
+                        Else
+                            Console.WriteLine(n3 & " " & n2 & " " & n1)
+                        End If
 
                     End If
 

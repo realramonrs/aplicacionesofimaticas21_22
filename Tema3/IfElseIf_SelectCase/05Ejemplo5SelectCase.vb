@@ -15,6 +15,8 @@
                 Console.Beep(25000, 2000)
             Case 11, 13, 15
                 Console.WriteLine("Hala Celta a demostrar, con orgullo e tradición")
+            Case Is > 30
+                Console.WriteLine("Mayor que 20")
             Case Else
                 Console.WriteLine("Hay un error.")
         End Select

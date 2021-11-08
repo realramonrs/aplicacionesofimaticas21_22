@@ -5,9 +5,20 @@
         presion = 3
         temperatura = 700
 
+        If presion > 2 And temperatura > 500 Then
+        ElseIf presion > 2 Then
+        ElseIf temperatura > 500 Then
+        Else
+
+        End If
+
+
+
+
         If presion > 2 Then
             Console.WriteLine("Abrir válvula de seguridad.")
             todoEnOrden = False
+
         End If
 
 

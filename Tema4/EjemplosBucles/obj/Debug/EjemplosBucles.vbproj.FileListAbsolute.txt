@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\bin\Debug\EjemplosBucles.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\bin\Debug\EjemplosBucles.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\bin\Debug\EjemplosBucles.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\bin\Debug\EjemplosBucles.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\EjemplosBucles\obj\Debug\EjemplosBucles.pdb

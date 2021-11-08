@@ -17,11 +17,11 @@
             Case "a"c, "A"c
 
                 Console.WriteLine("Ha escogido la opción a")
-            Case "b"c
+            Case "b"c, "B"c
                 Console.WriteLine("Ha escogido la opción b")
-            Case "c"c
+            Case "c"c, "C"c
                 Console.WriteLine("Ha escogido la opción c")
-            Case "d"c
+            Case "d"c, "D"c
                 Console.WriteLine("Ha escogido la opción d")
             Case Else
                 Console.WriteLine("Opción errónea.")
