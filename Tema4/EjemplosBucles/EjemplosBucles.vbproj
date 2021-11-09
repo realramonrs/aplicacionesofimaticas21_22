@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{099F83F9-6DE9-4182-9078-6E5B53E6C672}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>EjemplosBucles.EjemploWhile01</StartupObject>
+    <StartupObject>EjemplosBucles.ExitWhile04</StartupObject>
     <RootNamespace>EjemplosBucles</RootNamespace>
     <AssemblyName>EjemplosBucles</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -73,7 +73,9 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ContadoresConWhile03.vb" />
     <Compile Include="EjemploWhile01.vb" />
+    <Compile Include="ExitWhile04.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
