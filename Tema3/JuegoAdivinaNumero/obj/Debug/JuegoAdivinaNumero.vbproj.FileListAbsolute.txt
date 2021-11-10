@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\bin\Debug\JuegoAdivinaNumero.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\bin\Debug\JuegoAdivinaNumero.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\bin\Debug\JuegoAdivinaNumero.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\bin\Debug\JuegoAdivinaNumero.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\JuegoAdivinaNumero\obj\Debug\JuegoAdivinaNumero.pdb

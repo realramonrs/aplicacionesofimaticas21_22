@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\bin\Debug\RepasoFinalIfElse.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\bin\Debug\RepasoFinalIfElse.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\bin\Debug\RepasoFinalIfElse.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\bin\Debug\RepasoFinalIfElse.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema3\RepasoFinalIfElse\obj\Debug\RepasoFinalIfElse.pdb
