@@ -15,5 +15,14 @@
             End If
         Next
         Console.ReadLine()
+
+
+        'Bucle For
+        Dim j As Integer = 0
+        For j = 10 To 90 Step 2
+            For i As Integer = 9 To 90 Step 3
+            Next i
+
+        Next j
     End Sub
 End Module

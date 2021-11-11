@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\bin\Debug\BoletinBucles.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\bin\Debug\BoletinBucles.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\bin\Debug\BoletinBucles.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\bin\Debug\BoletinBucles.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\BoletinBucles\obj\Debug\BoletinBucles.pdb
