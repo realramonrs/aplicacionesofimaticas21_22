@@ -1,0 +1,12 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\bin\Debug\SelectorEstudiantes.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\bin\Debug\SelectorEstudiantes.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\bin\Debug\SelectorEstudiantes.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\bin\Debug\SelectorEstudiantes.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\SelectorEstudiantes\obj\Debug\SelectorEstudiantes.pdb
