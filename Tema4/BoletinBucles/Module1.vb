@@ -129,6 +129,42 @@
                         Console.WriteLine("número no perfecto")
                     End If
 
+                Case 14
+                    Dim n As Integer = 0
+                    Console.WriteLine("Intro valor de n")
+                    n = Convert.ToInt32(Console.ReadLine())
+
+                    Dim contador As Integer = 0
+                    Dim i As Integer = 5
+                    While contador < n
+                        If i Mod 5 = 0 Then
+                            Console.Write(i & " ")
+                            contador += 1
+                        End If
+                        i += 1
+
+                    End While
+
+                    'While contador < n
+
+                    '    Console.Write(i & " ")
+                    '    i += 5
+                    '    contador += 1
+                    'End While
+                    Console.WriteLine()
+                Case 17
+                    Dim numero As Integer = 0
+                    Dim contador As Integer = 2
+                    Console.WriteLine("Intro n: ")
+                    numero = Convert.ToInt32(Console.ReadLine())
+
+                    For i As Integer = 2 To Convert.ToInt32(numero / 2) Step 1
+                        If numero Mod i = 0 Then
+                            contador += 1
+                        End If
+                    Next
+                    Console.WriteLine(numero & " tiene " & contador & " divisores")
+
             End Select
             Console.WriteLine("Quiere seguir jugando?")
             opcion = Convert.ToChar(Console.ReadLine())
