@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\bin\Debug\RepasoBucles.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\bin\Debug\RepasoBucles.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\bin\Debug\RepasoBucles.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\bin\Debug\RepasoBucles.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\Tema4\RepasoBucles\obj\Debug\RepasoBucles.pdb
