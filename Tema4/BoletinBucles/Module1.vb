@@ -165,6 +165,49 @@
                     Next
                     Console.WriteLine(numero & " tiene " & contador & " divisores")
 
+                Case 21
+                    'Tabla de Multiplicar de los 10 primeros números
+
+                    Dim n As Integer = 2
+
+                    For j As Integer = 1 To 10 Step 1
+                        Console.WriteLine("Tabla de multiplicar del " & j)
+                        For i As Integer = 1 To 10 Step 1
+                            Console.WriteLine(j & " * " & i & " = " & j * i)
+                        Next i
+                        Console.WriteLine(" *************  ")
+                    Next j
+
+                Case 22
+                    Console.WriteLine("Apartado a")
+                    Dim limite As Integer
+                    Console.WriteLine("Intro número asteriscos: ")
+                    limite = Convert.ToInt32(Console.ReadLine())
+                    Dim descenso As Integer = limite
+                    'For j As Integer = 0 To limite - 1 Step 1
+                    '    For i As Integer = 0 To descenso - 1 Step 1
+                    '        Console.Write("* ")
+                    '    Next
+                    '    descenso = descenso - 1
+                    '    Console.WriteLine()
+                    'Next
+
+                    For j As Integer = limite To 1 Step -1
+                        For i As Integer = 1 To j Step 1
+                            Console.Write("* ")
+                        Next
+                        ' descenso = descenso - 1
+                        Console.WriteLine()
+                    Next
+
+                Case 25
+                    Dim aleatorio As Random = New Random()
+                    Dim c As Integer = aleatorio.Next(-5, 6)
+
+
+
+
+
             End Select
             Console.WriteLine("Quiere seguir jugando?")
             opcion = Convert.ToChar(Console.ReadLine())

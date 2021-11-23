@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{91A00DE5-0BD3-446C-B148-42D604CB3466}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>RepasoBucles.Repaso2</StartupObject>
+    <StartupObject>RepasoBucles.RepasoEnesimo</StartupObject>
     <RootNamespace>RepasoBucles</RootNamespace>
     <AssemblyName>RepasoBucles</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -90,6 +90,7 @@
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
     <Compile Include="Repaso2.vb" />
+    <Compile Include="RepasoEnesimo.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">

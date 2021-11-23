@@ -82,10 +82,6 @@
         Console.WriteLine("El mcd es : " & mcd)
 
 
-
-
-
-
         Console.ReadLine()
 
 
