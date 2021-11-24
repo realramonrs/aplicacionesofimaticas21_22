@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\bin\Debug\ExplicacionMatrices.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\bin\Debug\ExplicacionMatrices.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\bin\Debug\ExplicacionMatrices.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\bin\Debug\ExplicacionMatrices.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionMatrices\obj\Debug\ExplicacionMatrices.pdb
