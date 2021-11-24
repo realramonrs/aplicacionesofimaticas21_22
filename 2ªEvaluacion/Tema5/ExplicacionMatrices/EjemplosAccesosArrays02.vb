@@ -12,7 +12,8 @@
         'temperaturas(2) = 500
 
         Dim i As Integer = 0
-        While i < 30
+        While i < temperaturas.Length
+
             temperaturas(i) = 500
             i += 1
         End While
@@ -26,7 +27,7 @@
 
         'Recorremos matriz en busca de posición vacía (valor 500)
         Dim contador As Integer = 3
-        For pos As Integer = 0 To 29 Step 1
+        For pos As Integer = 0 To temperaturas.Length - 1 Step 1
             If temperaturas(pos) = 500 Then
                 temperaturas(pos) = temp
                 contador += 1 'Registramos que hemos guardado una temperatura
@@ -36,7 +37,7 @@
 
         'Mostrar temperaturas registradas en Noviembre
         Console.WriteLine("Temperaturas registradas en el mes " & Date.Today.Month)
-        For pos As Integer = 0 To 29 Step 1
+        For pos As Integer = 0 To temperaturas.Length - 1 Step 1
             If temperaturas(pos) <> 500 Then
                 Console.WriteLine("Día " & pos + 1 & " : " & temperaturas(pos))
             End If
@@ -48,10 +49,9 @@
 
         Dim posicion As Integer = 0
 
-        While posicion < 30
+        While posicion < temperaturas.Length
             If temperaturas(posicion) <> 500 Then
                 sumaTemperaturas = sumaTemperaturas + temperaturas(posicion)
-
             End If
             posicion += 1
         End While
