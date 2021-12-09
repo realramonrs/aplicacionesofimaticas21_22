@@ -2,7 +2,6 @@
     Sub main()
         Dim temperaturas(29) As Double
 
-
         'Programa que solicita una temperatura 
         'Esta temperatura debe de guardarse en la primera pos que no tenga datos
         'Necesitamos inicializar todas las posiciones del array a un valor absurdo,
@@ -59,6 +58,7 @@
         '1º Necesito contar las temperaturas
         Dim media As Double = sumaTemperaturas / contador
         Console.WriteLine("La temperatura media del mes es : " & media)
+
 
         Console.ReadLine()
     End Sub

@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\bin\Debug\BoletinGuiaArrays.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\bin\Debug\BoletinGuiaArrays.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\bin\Debug\BoletinGuiaArrays.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\bin\Debug\BoletinGuiaArrays.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\BoletinGuiaArrays\obj\Debug\BoletinGuiaArrays.pdb
