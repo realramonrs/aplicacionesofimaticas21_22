@@ -239,16 +239,18 @@
         Array.Copy(a29, a29Copia, a29.Length)
 
         'Ejercicio homenaje al subcampeón matemático y conductor de patinete eléctrico profesional
-        Dim numeros() As Integer = {4, 7, 8, 9, 2, 0, 1}
+        Dim numeros() As Integer = {4, 7, 6, 9, 2, 0, 1}
         Dim pares(numeros.Length - 1) As Integer
-
-        Dim cadena As String = "Celta"
-        Console.WriteLine(cadena.Substring(0, 3))
-
-
-
-
-
+        Dim indicePares As Integer = 0
+        For i As Integer = 0 To numeros.Length - 1 Step 1
+            If numeros(i) Mod 2 = 0 Then
+                pares(indicePares) = numeros(i)
+                indicePares += 1
+            End If
+        Next
+        ReDim Preserve pares(indicePares - 1)
+        Console.WriteLine("EJERCICIO PARES ARRAY HOMENAJE CAMPEON OLIMPICO")
+        mostrarMatriz(pares)
         Console.ReadLine()
     End Sub
 
