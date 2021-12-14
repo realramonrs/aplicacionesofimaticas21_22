@@ -223,6 +223,31 @@
             Console.WriteLine("No hay valores > 1000")
         End If
 
+        'Ejercicio 28
+        Dim a28() As Integer = {1, 2, 3, 4, 5, 6}
+        Dim a28Copia(a28.Length - 1) As Integer
+
+        For i = 0 To a28.Length - 1 Step 1
+            a28Copia(i) = a28(i)
+        Next
+
+        'Ejercicio 29
+        'Ejemplo función Array.copy
+        Dim a29() As Integer = {4, 6, 8, 10, 12}
+        Dim a29Copia(a29.Length - 1) As Integer
+
+        Array.Copy(a29, a29Copia, a29.Length)
+
+        'Ejercicio homenaje al subcampeón matemático y conductor de patinete eléctrico profesional
+        Dim numeros() As Integer = {4, 7, 8, 9, 2, 0, 1}
+        Dim pares(numeros.Length - 1) As Integer
+
+        Dim cadena As String = "Celta"
+        Console.WriteLine(cadena.Substring(0, 3))
+
+
+
+
 
         Console.ReadLine()
     End Sub
