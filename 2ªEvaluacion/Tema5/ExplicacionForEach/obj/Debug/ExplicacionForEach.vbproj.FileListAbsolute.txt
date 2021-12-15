@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\bin\Debug\ExplicacionForEach.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\bin\Debug\ExplicacionForEach.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\bin\Debug\ExplicacionForEach.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\bin\Debug\ExplicacionForEach.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\ExplicacionForEach\obj\Debug\ExplicacionForEach.pdb

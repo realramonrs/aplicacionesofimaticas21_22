@@ -223,6 +223,31 @@
             Console.WriteLine("No hay valores > 1000")
         End If
 
+        'Ejercicio 25
+        Dim a25() As Integer = {3, 4, 5, 2, 3, 1, 12}
+        Dim minimo, posicionMinimo As Integer
+        Dim maximo, posicionMaximo As Integer
+
+        minimo = a25(0)
+        maximo = a25(0)
+        For i As Integer = 1 To a25.Length - 1 Step 1
+            If a25(i) < minimo Then
+                minimo = a25(i)
+                posicionMinimo = i
+            End If
+        Next
+
+        For i As Integer = 1 To a25.Length - 1 Step 1
+            If a25(i) > maximo Then
+                maximo = a25(i)
+                posicionMaximo = i
+            End If
+        Next
+
+        Console.WriteLine("EJERCICIO 25 MÍNIMO ARRAY")
+        Console.WriteLine("El mínimo es: " & minimo)
+
+
         'Ejercicio 28
         Dim a28() As Integer = {1, 2, 3, 4, 5, 6}
         Dim a28Copia(a28.Length - 1) As Integer
@@ -248,7 +273,7 @@
                 indicePares += 1
             End If
         Next
-        ReDim Preserve pares(indicePares - 1)
+        ReDim Preserve pares(indicePares - 2)
         Console.WriteLine("EJERCICIO PARES ARRAY HOMENAJE CAMPEON OLIMPICO")
         mostrarMatriz(pares)
         Console.ReadLine()
