@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\bin\Debug\Repaso PostVacacional.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\bin\Debug\Repaso PostVacacional.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\bin\Debug\Repaso PostVacacional.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\bin\Debug\Repaso PostVacacional.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso PostVacacional.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso_PostVacacional.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso PostVacacional.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso PostVacacional.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso PostVacacional.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso PostVacacional.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\Repaso PostVacacional\obj\Debug\Repaso PostVacacional.pdb
