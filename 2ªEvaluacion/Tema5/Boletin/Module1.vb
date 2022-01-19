@@ -134,6 +134,164 @@
                         Console.WriteLine("No tiene números negativos.")
                     End If
 
+                Case 6
+                    Dim matriz6(10) As Integer
+                    generador(matriz6, -10, 11)
+
+                    Console.WriteLine("Matriz generada: ")
+                    mostrar(matriz6)
+
+                    Console.WriteLine("Introduce número: ")
+                    Dim numeroBuscado As Integer = Convert.ToInt32(Console.ReadLine())
+
+                    Dim encontrado As Boolean = False
+
+                    For i As Integer = 0 To matriz6.Length - 1 Step 1
+                        If matriz6(i) = numeroBuscado Then
+                            encontrado = True
+                            Console.WriteLine("Posición: " & i)
+
+
+                        End If
+                    Next
+
+                    If Not encontrado Then
+                        Console.WriteLine("No está en la matriz")
+                    End If
+                Case 7
+                    Dim encontrado As Boolean
+                    Dim nombres(99) As String
+                    Dim posVacia As Integer
+                    Dim opcion7 As Char
+                    Do
+
+                        Console.WriteLine("Que opción quiere ejecutar: ")
+                        opcion7 = Convert.ToChar(Console.ReadLine())
+
+                        If opcion7 = "a" Then
+                            Console.WriteLine("Introduce un nombre: ")
+                            Dim nombre As String = Console.ReadLine
+                            'nombres(posVacia) = nombre
+                            'posVacia += 1
+
+                            For i As Integer = 0 To nombres.Length - 1 Step 1
+                                If nombres(i) Is Nothing Then
+                                    nombres(i) = nombre
+                                    Exit For
+                                End If
+                            Next
+
+                        ElseIf opcion7 = "b" Then
+
+                            'Mostrar nombres guardados
+                            For Each nombre As String In nombres
+                                If nombre IsNot Nothing Then
+                                    Console.WriteLine(nombre)
+                                End If
+                            Next
+                        ElseIf opcion7 = "c" Then
+                            Dim contador As Integer = 0
+
+                            For Each valor As String In nombres
+                                If valor IsNot Nothing Then
+                                    contador += 1
+                                End If
+                            Next
+
+                            Console.WriteLine("Hay " & contador & " valores.")
+                        ElseIf opcion7 = "e" Then
+                            Dim nombreBuscado As String
+                            Console.WriteLine("Intro nombre: ")
+                            nombreBuscado = Console.ReadLine()
+                            Dim encontradoNombre As Boolean = False
+                            For Each valor As String In nombres
+                                If valor = nombreBuscado Then
+                                    Console.WriteLine("Encontrado.")
+                                    encontradoNombre = True
+
+                                    Exit For
+                                End If
+                            Next
+                            If encontradoNombre = False Then
+                                Console.WriteLine("No encontrado.")
+                            End If
+
+                        ElseIf opcion7 = "f" Then
+                            Dim nombreAEliminar As String
+                            Console.WriteLine("Intro nombre: ")
+                            nombreAEliminar = Console.ReadLine()
+                            Dim encontrador7 As Boolean = False
+                            For i As Integer = 0 To nombres.Length - 1 Step 1
+                                If nombreAEliminar = nombres(i) Then
+                                    nombres(i) = Nothing
+                                    Console.WriteLine("Nombre eliminado correctamente")
+                                    encontrador7 = True
+                                    Exit For
+
+                                End If
+                            Next
+                            If Not encontrador7 Then
+                                Console.WriteLine("No se pudo eliminar.")
+                            End If
+
+                        End If
+
+
+                    Loop While opcion7 <> "g"
+
+                Case 9
+                    Dim matriz9(11) As Integer
+                    generador(matriz9, -5, -1)
+
+                    mostrar(matriz9)
+                    Dim maximo As Integer = matriz9(0)
+                    Dim posMaximo As Integer = -1
+                    For i As Integer = 1 To matriz9.Length - 1 Step 1
+                        If maximo < matriz9(i) Then
+                            maximo = matriz9(i)
+                            posMaximo = i
+                        End If
+                    Next
+
+                    Console.WriteLine("El maximo es : " & maximo)
+                    Console.WriteLine("Posición: " & posMaximo)
+
+                Case 10
+                    Dim matriz10(10) As Integer
+                    Dim copia(matriz10.Length - 1) As Integer
+
+                    generador(matriz10, 1, 10)
+
+                    Array.Copy(matriz10, copia, matriz10.Length)
+
+                    Array.Sort(copia)
+
+                    Console.WriteLine("Original: ")
+                    For Each valor As Integer In matriz10
+                        Console.Write(valor & " ")
+                    Next
+                    Console.WriteLine()
+                    Console.WriteLine("Copia: ")
+
+                    For Each valor As Integer In copia
+                        Console.Write(valor)
+                    Next
+
+
+                    Console.WriteLine()
+
+                    Dim valorBuscado As Integer = 5
+                    Dim posicion As Integer = Array.IndexOf(copia, valorBuscado)
+
+                    If posicion < 0 Then
+                        Console.WriteLine("No se ha encontrado")
+                    Else
+                        Console.WriteLine("Está en la posición: " & posicion)
+                    End If
+
+
+
+
 
 
 
