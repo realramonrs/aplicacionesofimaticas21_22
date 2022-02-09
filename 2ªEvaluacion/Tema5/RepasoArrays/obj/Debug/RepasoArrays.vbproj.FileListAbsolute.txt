@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\bin\Debug\RepasoArrays.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\bin\Debug\RepasoArrays.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\bin\Debug\RepasoArrays.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\bin\Debug\RepasoArrays.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema5\RepasoArrays\obj\Debug\RepasoArrays.pdb

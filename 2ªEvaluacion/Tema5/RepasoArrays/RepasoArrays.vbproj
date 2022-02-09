@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C1184DE4-6421-4B42-8D65-D27D5D81AB16}</ProjectGuid>
+    <ProjectGuid>{7DAB8781-8DB8-4E78-99F4-D275ED20EB57}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Exlicacion01.Module1</StartupObject>
-    <RootNamespace>Exlicacion01</RootNamespace>
-    <AssemblyName>Exlicacion01</AssemblyName>
+    <StartupObject>RepasoArrays.Module1</StartupObject>
+    <RootNamespace>RepasoArrays</RootNamespace>
+    <AssemblyName>RepasoArrays</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
@@ -22,7 +22,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Exlicacion01.xml</DocumentationFile>
+    <DocumentationFile>RepasoArrays.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
@@ -34,7 +34,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Exlicacion01.xml</DocumentationFile>
+    <DocumentationFile>RepasoArrays.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
@@ -73,7 +73,6 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Funciones01.vb" />
     <Compile Include="Module1.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
