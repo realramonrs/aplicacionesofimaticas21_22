@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\bin\Debug\ExplicacionCadenas.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\bin\Debug\ExplicacionCadenas.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\bin\Debug\ExplicacionCadenas.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\bin\Debug\ExplicacionCadenas.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\ExplicacionCadenas\obj\Debug\ExplicacionCadenas.pdb

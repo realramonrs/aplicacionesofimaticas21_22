@@ -122,6 +122,27 @@
         Console.WriteLine("Ejercicio 17")
         mostrarMatrizConsola(negativos)
 
+
+        'Función que devuelve la suma de dos números
+        Dim resultado As Integer = devuelveSuma(8, 3)
+
+        Dim matrizPrueba() As Integer = {4, 5, 6, 7}
+
+
+        Dim matrizResultado() As Integer = doblarMatriz(matrizPrueba)
+
+
+
+
+
+
+
+
+
+
+
+
+
         Console.ReadLine()
     End Sub
 

@@ -177,4 +177,36 @@
 
         Return matriz
     End Function
+
+    Public Function devuelveSuma(ByVal x1 As Integer, ByVal x2 As Integer) As Integer
+        Return x1 + x2
+    End Function
+
+    Public Sub reseteaMatriz(ByRef x() As Integer)
+        x(0) = 0
+
+    End Sub
+
+    Public Function doblarMatriz(ByRef original() As Integer) As Integer()
+        Dim copia(original.Length - 1) As Integer
+        For i As Integer = 0 To copia.Length - 1 Step 1
+            copia(i) = original(i) * 2
+        Next
+        Return copia
+    End Function
+
+    Public Function getDivisorNoUnoNoN(ByVal n As Integer) As Integer
+        Dim divisor As Integer = 1
+        For i As Integer = 2 To n - 1 Step 1
+            If n Mod i = 0 Then
+                divisor = i
+                Return divisor
+
+            End If
+        Next
+        Return divisor
+    End Function
+
+
+
 End Module
