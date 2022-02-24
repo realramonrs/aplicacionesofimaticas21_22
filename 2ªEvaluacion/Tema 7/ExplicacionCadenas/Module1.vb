@@ -10,11 +10,11 @@
         'Los strings son arrays de caracteres
         'Mostrar por pantalla las posiciones en las que se encuentra
         'el caracter 'a' en un String
-        Dim mensaje As String = "Hdila soy una cadena"
+        Dim mensaje As String = "Hola soy una cadena"
         Dim encontrado As Boolean = False
-        Console.WriteLine("La z está en las posiciones: ")
+        Console.WriteLine("La a está en las posiciones: ")
         For i As Integer = 0 To mensaje.Length - 1 Step 1
-            If mensaje(i) = "z"c Then
+            If mensaje(i) = "a"c Then
                 Console.Write(i & " ")
                 encontrado = True
             End If
@@ -65,11 +65,56 @@
         Next
 
         'contains(String c)--> Devuelve true si ese String aparece en el String desde el cuál se llama a la función
-        Dim mensaje2 As String = "Pedro Martinnez Sánchez"
+        Dim mensaje2 As String = "Pedro Martinez Sánchez"
 
         If mensaje2.Contains("Sanchez") Then
 
         End If
+
+        'substring()--> Extraer un substring del string original
+        Dim registro As String = "12345678R-65454876553212?Calle Pizarro 54 6B"
+        Dim posInterrogacion As Integer = registro.IndexOf("?")
+        Dim posGuion As Integer = registro.IndexOf("-")
+        Dim direccion As String = registro.Substring(posInterrogacion + 1)
+        Console.WriteLine("Direccion: " & direccion)
+        Dim tlfn As String = registro.Substring(posGuion + 1, posInterrogacion - posGuion - 1)
+        Console.WriteLine("El teléfono es: " & tlfn)
+
+        'split(separador) --> Trocea el string original utilizando el separador indicado como argumento
+        'y devuelve una matriz con los tokens generados
+        Dim mensaje3 As String = "Hay que aprender a programar , si quiero trabajar"
+        Dim partes() As String = mensaje3.Split(",")
+        Dim palabras() As String = mensaje3.Split(" ")
+        'Algoritmo que muestre las palabras empiezan por a
+
+        For Each palabra As String In palabras
+            If palabra.StartsWith("a") Then
+                Console.WriteLine(palabra)
+            End If
+        Next
+
+        'Algoritmo que me indica cuantos dígitos hay en un String
+        Dim contadorDigitos As Integer
+        Dim dniPrueba As String = "12345678Y"
+        For i As Integer = 0 To dniPrueba.Length - 1 Step 1
+            If Char.IsDigit(dniPrueba(i)) Then
+                contadorDigitos += 1
+            End If
+        Next
+        Console.WriteLine("El DNI tiene " & contadorDigitos & " digitos.")
+
+        Dim cadena4 As String = "Hola caracola"
+        cadena4 = cadena4.Replace("o"c, "e"c)
+        cadena4 = cadena4.ToUpper()
+
+
+
+        Console.WriteLine(cadena4)
+
+
+
+
+
         Console.ReadLine()
 
     End Sub
