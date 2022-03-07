@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RepasoCadenas", "RepasoCadenas.vbproj", "{9A7F0395-1E46-412E-8C17-6EF12D39EEA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7F0395-1E46-412E-8C17-6EF12D39EEA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7F0395-1E46-412E-8C17-6EF12D39EEA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7F0395-1E46-412E-8C17-6EF12D39EEA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7F0395-1E46-412E-8C17-6EF12D39EEA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48D11CC-BB05-4F22-B788-F31DC7D48592}
+	EndGlobalSection
+EndGlobal
