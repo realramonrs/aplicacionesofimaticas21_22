@@ -1,0 +1,11 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\bin\Debug\BoletinCadenas.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\bin\Debug\BoletinCadenas.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\bin\Debug\BoletinCadenas.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\bin\Debug\BoletinCadenas.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\2ªEvaluacion\Tema 7\BoletinCadenas\obj\Debug\BoletinCadenas.pdb
