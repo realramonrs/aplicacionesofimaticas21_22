@@ -1,0 +1,12 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\bin\Debug\01PrimeraAppGrafica.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\bin\Debug\01PrimeraAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\bin\Debug\01PrimeraAppGrafica.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\bin\Debug\01PrimeraAppGrafica.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\01PrimeraAppGrafica.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\_01PrimeraAppGrafica.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\_01PrimeraAppGrafica.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\01PrimeraAppGrafica.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\01PrimeraAppGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\01PrimeraAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\01PrimeraAppGrafica.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\01PrimeraAppGrafica\obj\Debug\01PrimeraAppGrafica.pdb

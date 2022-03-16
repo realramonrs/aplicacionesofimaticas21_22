@@ -176,7 +176,6 @@
                     Dim salario2B As Integer = Convert.ToInt32(cadena2.Split("*"c, "!"c)(1))
                     Console.WriteLine("Salario 2: " & salario2)
 
-
             End Select
         Loop While opcion <> 10
 
