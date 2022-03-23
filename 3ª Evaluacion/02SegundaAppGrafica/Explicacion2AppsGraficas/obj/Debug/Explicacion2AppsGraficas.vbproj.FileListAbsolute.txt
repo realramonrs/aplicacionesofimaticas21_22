@@ -1,0 +1,12 @@
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.vbprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.Form1.resources
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.Resources.resources
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.vbproj.GenerateResource.cache
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.vbproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\bin\Debug\Explicacion2AppsGraficas.exe.config
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\bin\Debug\Explicacion2AppsGraficas.exe
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\bin\Debug\Explicacion2AppsGraficas.pdb
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\bin\Debug\Explicacion2AppsGraficas.xml
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.exe
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.xml
+C:\Users\jramo\Documents\GitHub\Explicacion2AppsGraficas\Explicacion2AppsGraficas\obj\Debug\Explicacion2AppsGraficas.pdb
