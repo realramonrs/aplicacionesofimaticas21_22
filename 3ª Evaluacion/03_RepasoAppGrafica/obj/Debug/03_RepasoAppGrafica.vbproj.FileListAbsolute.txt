@@ -1,0 +1,12 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\bin\Debug\03_RepasoAppGrafica.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\bin\Debug\03_RepasoAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\bin\Debug\03_RepasoAppGrafica.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\bin\Debug\03_RepasoAppGrafica.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\03_RepasoAppGrafica.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\_03_RepasoAppGrafica.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\_03_RepasoAppGrafica.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\03_RepasoAppGrafica.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\03_RepasoAppGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\03_RepasoAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\03_RepasoAppGrafica.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\03_RepasoAppGrafica\obj\Debug\03_RepasoAppGrafica.pdb

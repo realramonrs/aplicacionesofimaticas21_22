@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "03_RepasoAppGrafica", "03_RepasoAppGrafica.vbproj", "{5917D620-0905-491B-B2BB-5D9B87687164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5917D620-0905-491B-B2BB-5D9B87687164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5917D620-0905-491B-B2BB-5D9B87687164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5917D620-0905-491B-B2BB-5D9B87687164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5917D620-0905-491B-B2BB-5D9B87687164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ED3176E-9E65-4F14-8070-0C3E28176B03}
+	EndGlobalSection
+EndGlobal
