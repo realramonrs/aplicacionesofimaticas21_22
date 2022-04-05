@@ -1,0 +1,12 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\bin\Debug\Repaso3ConexionFicheros.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\bin\Debug\Repaso3ConexionFicheros.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\bin\Debug\Repaso3ConexionFicheros.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\bin\Debug\Repaso3ConexionFicheros.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Repaso3ConexionFicheros\obj\Debug\Repaso3ConexionFicheros.pdb
