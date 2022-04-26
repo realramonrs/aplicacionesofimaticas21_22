@@ -1,0 +1,15 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\bin\Debug\04_BoletinAppGrafica.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\bin\Debug\04_BoletinAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\bin\Debug\04_BoletinAppGrafica.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\bin\Debug\04_BoletinAppGrafica.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\04_BoletinAppGrafica.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\_04_BoletinAppGrafica.Ejercicio2.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\_04_BoletinAppGrafica.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\_04_BoletinAppGrafica.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\04_BoletinAppGrafica.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\04_BoletinAppGrafica.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\04_BoletinAppGrafica.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\04_BoletinAppGrafica.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\04_BoletinAppGrafica.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\_04_BoletinAppGrafica.Ejercicio5.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\04_BoletinAppGrafica\obj\Debug\_04_BoletinAppGrafica.Ejercicio6.resources
