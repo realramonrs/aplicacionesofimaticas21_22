@@ -1,0 +1,12 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\bin\Debug\EjemploPictureBox.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\bin\Debug\EjemploPictureBox.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\bin\Debug\EjemploPictureBox.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\bin\Debug\EjemploPictureBox.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.pdb
