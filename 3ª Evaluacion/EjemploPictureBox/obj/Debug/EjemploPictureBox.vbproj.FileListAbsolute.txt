@@ -10,3 +10,4 @@ C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\Ej
 C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.exe
 C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.xml
 C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploPictureBox\obj\Debug\EjemploPictureBox.Form2.resources

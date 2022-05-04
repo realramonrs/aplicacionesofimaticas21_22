@@ -1,14 +1,17 @@
 ﻿Public Class Form1
+    Public jugador As String
     Private Sub RadioButton1_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton1.CheckedChanged
         If RadioButton1.Checked Then
+            jugador = "Aspas"
             PictureBox1.Image = My.Resources.Logo_Qbitia
         End If
+        Form2.ShowDialog()
     End Sub
 
     Private Sub RadioButton2_CheckedChanged(sender As Object, e As EventArgs) Handles RadioButton2.CheckedChanged
         If RadioButton2.Checked Then
             PictureBox1.Image = My.Resources.bigo_solutions
-
+            jugador = "Joaquin"
         End If
     End Sub
 
@@ -38,5 +41,9 @@
         If e.KeyCode = Keys.Left Then
             PictureBox3.Location = New Point(PictureBox3.Location.X - 5, PictureBox3.Location.Y)
         End If
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+
     End Sub
 End Class

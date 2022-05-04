@@ -1,0 +1,13 @@
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\bin\Debug\EjemploArrayList.exe.config
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\bin\Debug\EjemploArrayList.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\bin\Debug\EjemploArrayList.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\bin\Debug\EjemploArrayList.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.vbprojAssemblyReference.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.Form1.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.Resources.resources
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.vbproj.GenerateResource.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.vbproj.CoreCompileInputs.cache
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.exe
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.xml
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.pdb
+C:\Users\Ramon RS\Documents\GitHub\aplicacionesofimaticas21_22\3ª Evaluacion\EjemploArrayList\obj\Debug\EjemploArrayList.InfoSeries.resources
