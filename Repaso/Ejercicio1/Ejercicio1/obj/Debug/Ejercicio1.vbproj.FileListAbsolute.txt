@@ -1,0 +1,11 @@
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.xml
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Resources.resources
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.GenerateResource.cache
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.vbproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.xml
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
