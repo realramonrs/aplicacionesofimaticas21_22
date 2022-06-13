@@ -1,0 +1,11 @@
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\bin\Debug\Matrices2.exe.config
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\bin\Debug\Matrices2.exe
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\bin\Debug\Matrices2.pdb
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\bin\Debug\Matrices2.xml
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.vbprojAssemblyReference.cache
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.Resources.resources
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.vbproj.GenerateResource.cache
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.vbproj.CoreCompileInputs.cache
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.exe
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.xml
+C:\Users\jramo\Documents\GitHub\aplicacionesofimaticas21_22\Repaso\Matrices2\Matrices2\obj\Debug\Matrices2.pdb
